@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: antiquewhite;
+    list-style-position: inside;
+}
+
+ul {
+    padding-left: 0;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.odd {
+    font-weight: bold;
+}
+
+.even {
+    font-size: 110%;
+}
